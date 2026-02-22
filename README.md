@@ -1,0 +1,1 @@
+En este repositorio desarrollo e implemento la estructura de datos de grafos en código, utilizando matriz de adyacencia y lista de adyacencia. El proyecto incluye la creación de los grafos, validaciones, recorridos como BFS y DFS, y ejemplos prácticos para demostrar su funcionamiento. Además, se explica la parte teórica y sus aplicaciones en la vida real.
